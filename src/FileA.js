@@ -1,3 +1,4 @@
 console.log('File A')
 console.log("Pamuda changed the line");
-// New comment
+console.log("Pamuda is the new Collaborator");
+
